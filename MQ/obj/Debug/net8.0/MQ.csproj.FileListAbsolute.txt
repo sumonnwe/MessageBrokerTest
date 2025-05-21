@@ -1,0 +1,25 @@
+D:\DEV_TEST\MQ\bin\Debug\net8.0\MQ.deps.json
+D:\DEV_TEST\MQ\bin\Debug\net8.0\MQ.dll
+D:\DEV_TEST\MQ\bin\Debug\net8.0\MQ.pdb
+D:\DEV_TEST\MQ\obj\Debug\net8.0\MQ.csproj.AssemblyReference.cache
+D:\DEV_TEST\MQ\obj\Debug\net8.0\MQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV_TEST\MQ\obj\Debug\net8.0\MQ.AssemblyInfoInputs.cache
+D:\DEV_TEST\MQ\obj\Debug\net8.0\MQ.AssemblyInfo.cs
+D:\DEV_TEST\MQ\obj\Debug\net8.0\MQ.csproj.CoreCompileInputs.cache
+D:\DEV_TEST\MQ\obj\Debug\net8.0\MQ.dll
+D:\DEV_TEST\MQ\obj\Debug\net8.0\refint\MQ.dll
+D:\DEV_TEST\MQ\obj\Debug\net8.0\MQ.pdb
+D:\DEV_TEST\MQ\obj\Debug\net8.0\ref\MQ.dll
+D:\DEV_TEST\MessageBroker Test\MQ\bin\Debug\net8.0\MQ.deps.json
+D:\DEV_TEST\MessageBroker Test\MQ\bin\Debug\net8.0\MQ.dll
+D:\DEV_TEST\MessageBroker Test\MQ\bin\Debug\net8.0\MQ.pdb
+D:\DEV_TEST\MessageBroker Test\MQ\obj\Debug\net8.0\MQ.csproj.AssemblyReference.cache
+D:\DEV_TEST\MessageBroker Test\MQ\obj\Debug\net8.0\MQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV_TEST\MessageBroker Test\MQ\obj\Debug\net8.0\MQ.AssemblyInfoInputs.cache
+D:\DEV_TEST\MessageBroker Test\MQ\obj\Debug\net8.0\MQ.AssemblyInfo.cs
+D:\DEV_TEST\MessageBroker Test\MQ\obj\Debug\net8.0\MQ.csproj.CoreCompileInputs.cache
+D:\DEV_TEST\MessageBroker Test\MQ\obj\Debug\net8.0\MQ.dll
+D:\DEV_TEST\MessageBroker Test\MQ\obj\Debug\net8.0\refint\MQ.dll
+D:\DEV_TEST\MessageBroker Test\MQ\obj\Debug\net8.0\MQ.pdb
+D:\DEV_TEST\MessageBroker Test\MQ\obj\Debug\net8.0\ref\MQ.dll
+D:\DEV_TEST\MessageBroker Test\MQ\bin\Debug\net8.0\appsettings.json

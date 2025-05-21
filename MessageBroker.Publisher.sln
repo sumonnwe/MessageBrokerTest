@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageBroker", "MessageBroker\MessageBroker.csproj", "{A88D7632-D331-4953-B394-9A0147B24807}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQPublisherService", "RabbitMQPublisherService\RabbitMQPublisherService.csproj", "{54C26CC2-AC09-457B-BE22-F194FC5CE472}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MQ", "MQ\MQ.csproj", "{EB277065-9CB0-4D98-BE66-113CC4F6135F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A88D7632-D331-4953-B394-9A0147B24807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88D7632-D331-4953-B394-9A0147B24807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88D7632-D331-4953-B394-9A0147B24807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88D7632-D331-4953-B394-9A0147B24807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54C26CC2-AC09-457B-BE22-F194FC5CE472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C26CC2-AC09-457B-BE22-F194FC5CE472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C26CC2-AC09-457B-BE22-F194FC5CE472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C26CC2-AC09-457B-BE22-F194FC5CE472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB277065-9CB0-4D98-BE66-113CC4F6135F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB277065-9CB0-4D98-BE66-113CC4F6135F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB277065-9CB0-4D98-BE66-113CC4F6135F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB277065-9CB0-4D98-BE66-113CC4F6135F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {723B3AFF-2DFB-493F-9203-6018DD382988}
+	EndGlobalSection
+EndGlobal
